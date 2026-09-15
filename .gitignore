@@ -1,0 +1,6 @@
+# macos file
+.DS_Store
+
+# java
+/bin/
+/lib/
