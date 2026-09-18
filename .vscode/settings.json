@@ -1,0 +1,10 @@
+{
+    "editor.minimap.enabled": false,
+    "java.project.outputPath": "bin",
+    "java.project.sourcePaths": [
+        "hw00",
+        "hw01",
+        "lab01",
+        "starter",
+    ]
+}
